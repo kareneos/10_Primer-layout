@@ -1,0 +1,85 @@
+hr, img{
+	margin: 15px;
+}
+/*PÁGINA PRINCIPAL*/
+/*HEADER*/
+#laboratoria{
+	width: 960px;
+}
+.menu{
+	font-size: 28px;
+	font-family: serif;
+}
+#menulinea{
+	border-left: 1px solid black;
+}
+/*SECTION*/
+.imggrupo{
+	width: 940px;
+}
+/*PARRAFO Y LINEAS*/
+#lineach{
+	margin-left: 430px;
+	margin-right: 430px;	
+}
+#parrafo{
+	margin-left: 200px;
+	margin-right: 200px;
+	font-size: 30px;
+}
+/*NUESTRAS CODERS*/
+#coders{
+	height: 280px;
+	width: 280px;
+}
+a{
+	text-decoration: none;
+}
+#twhite{
+	color:white;
+	position: relative;
+	top:-55px;
+}
+
+/*SEGUNDA PÁGINA*/
+/*CODER DETAIL*/
+.margen{
+	border: 2px solid grey;
+	padding:50px;
+}
+/*FOTO, NOMBRE Y PARRAFO*/
+h1{
+	font-size: 50px;
+	margin-bottom: 15px;
+}
+.fcirculo{
+	border-radius: 50%;
+	margin-left: 350px;
+}
+#textoL{
+	font-size: 25px;
+	margin:0px 100px 50px;
+	text-align: justify;
+
+}
+/*HABILIDADES*/
+h3{
+	margin:15px;
+	padding-left: 10px;
+	font-size: 18px;
+	font-family: 'Lora', serif;
+}
+h2{
+	font-size: 40px;
+}
+#sombreado{
+	background-color: gray;
+	color:white;
+	height: 50px;
+	padding-top: 15px;
+}
+/*PORTAFOLIO*/
+#imgch{
+	height: 180px;
+	width: 260px;
+}

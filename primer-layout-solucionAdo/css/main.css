@@ -1,0 +1,93 @@
+/*index*/
+.logo{
+	display: block;
+	margin: auto;
+}
+ul{
+	margin: 3% 0;
+	text-align: center;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	padding: 2%;
+}
+li{
+	text-decoration: none;
+	display: inline-block;
+	padding: 0 5%;
+}
+.borde{
+	border-right: 1px solid black;
+}
+.grupal{
+	margin-bottom: 5%;
+}
+hr{
+	width: 100px;
+	height: 5px;
+	background-color: black;
+	display: block;
+	margin: auto;
+}
+.texto{
+	text-align: center;
+	margin: 3%;
+	font-size: 1.5em;
+}
+.izq{
+	margin-left: 0;
+}
+a{
+	text-decoration: none;
+}
+.profile{
+	position: relative;
+	display: block;
+	margin: auto;
+}
+.nombre{
+	color: white;
+	position: absolute;
+	top:170px;
+	left: 70px;
+}
+
+
+/*coder*/
+.marco{
+	border: solid 1px black;
+	padding: 3%;
+}
+.coder{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	display: block;
+	margin: auto; 
+}
+h2{
+	text-align: center;
+	margin: 5%;
+}
+.centrar{
+	text-align: center;
+}
+h3{
+	margin: 3% 0;
+}
+.habilidades{
+	background-color: aqua;
+	margin: 1%;
+	padding: 1%;
+}
+#html{
+	width: 80%;
+}
+#css{
+	width: 60%;
+}
+#js{
+	width: 30%;
+}
+.portafolio{
+	padding: 3%;
+}	
